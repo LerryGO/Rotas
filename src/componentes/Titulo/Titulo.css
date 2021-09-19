@@ -1,0 +1,9 @@
+/* Configuração do componente título*/
+
+.titulo{
+    height: 8vh;
+    background-color: rgb(166, 245, 159);
+    border: 1px solid darkorange;
+    position: relative;
+    top: 7vh;
+}

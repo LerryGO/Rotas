@@ -1,0 +1,19 @@
+/* Configuração do componente título*/
+
+.inicio, .esqueletico, .articular, .muscular, .cardiovascular, .respiratorio, .titulo, footer{
+    text-align: center;
+    border: 1px solid black;
+}
+
+.inicio{
+    height: 90vh;
+    padding: 2%;
+    background-color: beige;
+  }
+
+  #logo{
+      width: 700px;
+      height: 308px;
+      border: 4px black solid;
+      border-radius: 5px;
+  }
